@@ -172,8 +172,8 @@ open index.html
    - Test the modal, tabs, and slider components
    - Observe lazy loading of images
  
-## 📌 Project link on Netlify :
-  https://advanced-dom.netlify.app/
+## 📌 Project link on Vercel :
+  [Live Demo ](https://advanced-dom-project.vercel.app/)
 
 ## 🙏 Acknowledgments
 
